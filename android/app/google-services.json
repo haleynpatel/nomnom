@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795803056324",
+    "project_id": "booklens2-51k1va",
+    "storage_bucket": "booklens2-51k1va.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795803056324:android:d20b6665d88e3b81ef7191",
+        "android_client_info": {
+          "package_name": "com.mycompany.fflens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
