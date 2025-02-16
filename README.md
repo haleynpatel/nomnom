@@ -16,8 +16,8 @@ While traveling, we often discover amazing snacks that we wish we could find bac
 ## How we built it
 
 - 🖥️ **Frontend**: Built with FlutterFlow for a seamless cross-platform experience.
-- 🧠 **Backend**: Uses the Gemini API to analyze snack images and recommend similar products.
-- 📂 **Database**: We use Firebase to store snack information, including images, categories, and region availability.
+- 🧠 **Backend**: Uses the Gemini API to process snack images and recommend similar products.
+- 📂 **Database**: We use Firebase to store snack information, including categories, a snack profile, and region availability.
 
 ## Challenges we ran into
 
@@ -50,7 +50,7 @@ To run **nomnom!** locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/nomnom.git
+   git clone https://github.com/haleynpatel/nomnom
    ```
 2. Open the project in FlutterFlow and configure Firebase.
 3. Add your Gemini API key in the backend settings.
